@@ -5,6 +5,7 @@ Created on Mon Nov  6 12:38:19 2023
 @author: wikto
 """
 
+
 def sprawdz_czy_lista_zawiera_wartosc(lista, wartosc):
     return wartosc in lista
 
